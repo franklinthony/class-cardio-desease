@@ -1,5 +1,5 @@
 <h1 align="center">
-    :robot: :computer:
+    :heart: :grey_question:
 </h1>
 
 <h1 align="center">
