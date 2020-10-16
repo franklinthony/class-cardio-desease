@@ -40,7 +40,7 @@ Essas aplicações foram desenvolvidas com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Repositório com implementação de uma Rede Neural Artificial (RNA) para classicação binária de doenças cardiovasculares. O dataset utlizado pode ser baixado [clicando aqui.](https://www.kaggle.com/ronitf/heart-disease-uci)
+Repositório com implementação de uma Rede Neural Artificial (RNA) para classificação binária de doenças cardiovasculares. O dataset utlizado pode ser baixado [clicando aqui.](https://www.kaggle.com/ronitf/heart-disease-uci)
 
 ## 🤔 Como contribuir
 
