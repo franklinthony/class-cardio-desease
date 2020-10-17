@@ -18,7 +18,7 @@
     <img alt="Repository issues" src="https://img.shields.io/github/issues/franklinthony/class-cardio-desease">
   </a>
   
-  <a href="https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/binary-class-cardio-desease.ipynb">
+  <a href="https://colab.research.google.com/drive/1Wyp4PuCcFM58TSKA9PhjujONQo21X0qN?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/>
 </a>
 </p>
